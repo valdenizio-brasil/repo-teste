@@ -7,3 +7,12 @@ valor_str=(str(valor))
 print(type(valor))
 print (100/2)
 print (100//2)
+
+menu = '''
+
+[d] Depositar
+[s] Sacar
+[e] Extrato
+[q] Sair
+
+=> '''
